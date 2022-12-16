@@ -1,0 +1,31 @@
+body {
+    background: rgb(86, 142, 198);
+    font: normal 1rem Arial;
+    margin: 0 auto;
+}
+
+header {
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 40px 20px;
+    width: 500px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.224);
+    margin: 0 auto;    
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+#inputNumero {
+    margin-right: 10px;
+}
+
